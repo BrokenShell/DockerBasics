@@ -1,2 +1,8 @@
-Fortuna>=5.0.5
-FortranRNG>=1.5.0
+Cython
+FortranRNG
+Fortuna
+MonkeyScope
+numpy
+pandas
+scipy
+scikit-learn
